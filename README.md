@@ -249,4 +249,4 @@ This repository serves as the official landing page for Caster. The software is 
 **Get the most recent version of Caster today!**
 
 ---
-**Last updated:** 2026-09-19 17:45:17 UTC
+**Last updated:** 2026-09-19 20:01:52 UTC
